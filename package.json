@@ -1,0 +1,23 @@
+{
+  "name": "autogram",
+  "version": "1.0.0",
+  "description": "Python program to automate instagram posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwood89/AutoGram.git"
+  },
+  "keywords": [
+    "python",
+    "instagram"
+  ],
+  "author": "Chris Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwood89/AutoGram/issues"
+  },
+  "homepage": "https://github.com/cwood89/AutoGram#readme"
+}

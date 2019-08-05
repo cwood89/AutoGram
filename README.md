@@ -1,6 +1,6 @@
 # AutoGram
 
-> Automate your 100 days of code instagram posts
+> Automate your 100 days of code Instagram posts.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
