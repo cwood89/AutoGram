@@ -3,7 +3,7 @@
 > Automate your 100 days of code Instagram posts.
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/cwood89/AutoGram)
 
-My goal for this project is to simplify my 100 days of code posts. I want to be able to screenshot my code and save the image. Then upload it along with a comment thats formatted to include optional hashtags.
+My goal for this project is to simplify my 100 days of code posts. I want to be able to screenshot my code and save the image. Then upload it along with a description thats formatted to include optional hashtags.
 
 ## Meta
 
